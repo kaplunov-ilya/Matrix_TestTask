@@ -478,7 +478,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Game.Core.EntryPoint
   _modelAsset: {fileID: 4900000, guid: 0f5b282381c5cba45bbb049e24817916, type: 3}
   _spaceAsset: {fileID: 4900000, guid: 53c4598a512f24a44b7de2eadd1e8a60, type: 3}
-  _prefab: {fileID: 309431188213661776, guid: 64e1ed88b52bacf468eb406c7817fcaa, type: 3}
+  _prefab: {fileID: -3155124192140328764, guid: 64e1ed88b52bacf468eb406c7817fcaa, type: 3}
   _config: {fileID: 11400000, guid: 4f9c543432204394bb4c2802dadbdc4e, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
